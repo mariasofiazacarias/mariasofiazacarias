@@ -20,7 +20,7 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
 ## 🎓 Onde estou Estudando?
 
 Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
-- Programa Back-End.
+- Programação Back-End.
 - Marcação de Linguagem.
 - Bancos de dados.
 
